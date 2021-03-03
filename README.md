@@ -4,7 +4,7 @@
 https://www.insole.com.br/
 
 
-![enter image description here](https://www.insole.com.br/src/assets/images/logo.png)
+
 
 O Candidato deve ter como premissas:
 
@@ -54,6 +54,6 @@ Enviar e-mail com os currículos para leonardo.cavalcante@insiole.com.br / eriso
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA3ODI0MjgsLTEzNjU5NjQ4MDAsLT
-gzODYyNzM0NywtOTIzMTA5NDg3XX0=
+eyJoaXN0b3J5IjpbMTgyMzk1NDU1NywtMTE1MDc4MjQyOCwtMT
+M2NTk2NDgwMCwtODM4NjI3MzQ3LC05MjMxMDk0ODddfQ==
 -->
