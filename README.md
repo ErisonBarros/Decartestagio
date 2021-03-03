@@ -2,7 +2,7 @@
 
 1 Vaga de Estágio para a Impresa Insole 
 https://www.insole.com.br/
-
+![enter image description here](https://www.insole.com.br/src/assets/images/logo.png)
 
 O Candidato deve ter como premissas:
 
@@ -52,6 +52,6 @@ Enviar e-mail com os currículos para leonardo.cavalcante@insiole.com.br / eriso
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDYwMTY5NSwtODM4NjI3MzQ3LC05Mj
-MxMDk0ODddfQ==
+eyJoaXN0b3J5IjpbLTEzNjU5NjQ4MDAsLTgzODYyNzM0NywtOT
+IzMTA5NDg3XX0=
 -->
