@@ -1,6 +1,7 @@
 # Coordenação de Estágio.
 
-1 Vaga de Estágio para a Impresa Insole ([https://materiais.insole.com.br/novo_residencial...](https://materiais.insole.com.br/novo_residencial?utm_source=google&utm_medium=cpc&utm_campaign=empresarial&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlFy_iwu67JiK_IqOHwri_MJdQhHBdV4-Orukdyo_7A4uaarVv6yCRsaAhNbEALw_wcB&fbclid=IwAR1_zYdulZXNKL3VHTm_jcpcTJz0ciZw6cyiXdUp586qXw2NtFBhs_UpM3o))
+1 Vaga de Estágio para a Impresa Insole 
+
 
 O Candidato deve ter como premissas:
 
@@ -50,5 +51,6 @@ Enviar e-mail com os currículos para leonardo.cavalcante@insiole.com.br / eriso
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODYyNzM0NywtOTIzMTA5NDg3XX0=
+eyJoaXN0b3J5IjpbLTUxODcyNjIxNywtODM4NjI3MzQ3LC05Mj
+MxMDk0ODddfQ==
 -->
